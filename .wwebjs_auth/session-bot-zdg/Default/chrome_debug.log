@@ -1,0 +1,2 @@
+[0919/131327.720:ERROR:dxva_video_decode_accelerator_win.cc(1426)] DXVAVDA fatal error: Could not load mf.dll: Não foi possível encontrar o módulo especificado. (0x7E)
+[0919/131330.141:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
